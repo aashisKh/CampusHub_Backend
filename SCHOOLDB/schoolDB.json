@@ -1,0 +1,385 @@
+{
+  "Teachers": [
+    {
+      "id": "T12345",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Web Technology"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T12349",
+      "name": "Hari Prasad",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["C Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T12356",
+      "name": "John Don",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Microprocessor"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T12312",
+      "name": "Ramu Aryal",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Database Management System"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T12390",
+      "name": "Mohan lal",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10020",
+      "name": "Mohans lals",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10021",
+      "name": "Manmohan lals",
+      "email": "johns12.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10022",
+      "name": "Manmohans lals",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10023",
+      "name": "Manmohans lals",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10024",
+      "name": "hari prasad",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10025",
+      "name": "Shyam",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": ["Advanced Java Programming"],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10026",
+      "name": "Shyam",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": [
+        "C Programming",
+        "Discrete Structures",
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Cryptography",
+        "Software Engineering",
+        "Advanced Java Programming",        
+        "Advanced Database"
+      ],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10027",
+      "name": "Naseem",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": [
+        "Discrete Structures",
+        "Object Oriented Programming",
+        "Microprocessor",
+        "Mathematics II",
+        "Statistics I"
+      ],
+      "address": "butwal-10"
+    },
+    {
+      "id": "T10028",
+      "name": "Rajendra",
+      "email": "manmohanlals.doe@example.com",
+      "phone": "1234567890",
+      "subject": [
+        "Theory of Computation",
+        "Computer Networks",
+        "Operating Systems",
+        "Database Management System",
+        "Artificial Intelligence"
+      ],
+      "address": "butwal-10"
+    }
+  ],
+  "Students": [
+    {
+      "id": "S12341",
+      "name": "Fiste",
+      "email": "fiste@example.comb",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-10"
+    },
+    {
+      "id": "S10345",
+      "name": "Putke",
+      "email": "putke@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-11"
+    },
+    {
+      "id": "S19875",
+      "name": "Mote",
+      "email": "mote@example.com",
+      "phone": "1234567890",
+      "batch": "2078",
+      "address": "butwal-09"
+    },
+    {
+      "id": "S12901",
+      "name": "Kale",
+      "email": "kale@example.com",
+      "phone": "1234567890",
+      "batch": "2077",
+      "address": "butwal-08"
+    },
+    {
+      "id": "S12129",
+      "name": "Krishna",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10012",
+      "name": "Balaram",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10013",
+      "name": "Dorna Bhandari",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10014",
+      "name": "Hamita",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10015",
+      "name": "Ramita",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10016",
+      "name": "Sita",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10017",
+      "name": "Rita",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10018",
+      "name": "Gita",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10019",
+      "name": "Ram",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10020",
+      "name": "Shyam",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10021",
+      "name": "Haddi",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10022",
+      "name": "Bipin",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10023",
+      "name": "Arjun",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10024",
+      "name": "Aashis",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2078",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10025",
+      "name": "Hari",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2078",
+      "address": "butwal-12"
+    },
+
+
+
+
+
+
+    {
+      "id": "S10026",
+      "name": "Girija",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10027",
+      "name": "Girija1",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10028",
+      "name": "Girija2",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2077",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10029",
+      "name": "Girija3",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2077",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10030",
+      "name": "Girija4",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2078",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10031",
+      "name": "Girija5",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2078",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10032",
+      "name": "Girija6",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10033",
+      "name": "Girija7",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2079",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10034",
+      "name": "Girija8",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2080",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10035",
+      "name": "Girija9",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2080",
+      "address": "butwal-12"
+    },
+    {
+      "id": "S10036",
+      "name": "RamRam",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "batch": "2076",
+      "address": "butwal-12"
+    }
+  ]
+}
